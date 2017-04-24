@@ -56,3 +56,5 @@ install it. For example, you might want to put it
 directly onto your Jitsi Meet server (webroot in `/usr/share/jitsi-meet`).
 This would only be helpful for downloading the extension, as
 Chrome will not allow a direct installation from your site.
+
+Siplo Extention is available at "https://chrome.google.com/webstore/detail/siplo-screen-share/meenceoaiildilhdgiaeocpijmgjmhfg?hl=en-US"

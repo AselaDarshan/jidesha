@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Siplo Screen Share",
-  "description": "A simple extension that allows you to stream your desktop into meetings with Jitsi Meet and Jitsi Videobridge.",
+  "description": "Share Your Screen in Siplo Virtual Classroom",
   "version": "0.1.0",
   "minimum_chrome_version": "34",
   "icons": {
